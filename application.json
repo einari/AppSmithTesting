@@ -1,12 +1,12 @@
 {
   "pages": [
     {
-      "id": "Page1",
-      "isDefault": true
-    },
-    {
       "id": "Movies",
       "isDefault": false
+    },
+    {
+      "id": "Page1",
+      "isDefault": true
     }
   ],
   "viewMode": false,
@@ -23,6 +23,11 @@
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
+  "embedSetting": {
+    "height": "720px",
+    "width": "1024px",
+    "showNavigationBar": true
+  },
   "collapseInvisibleWidgets": true,
   "isManualUpdate": false,
   "deleted": false
